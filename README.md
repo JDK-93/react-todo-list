@@ -15,8 +15,9 @@ cd react-todo-list
 npm install
 ```
 ## Vista previa
-
-![To Do List vacía](images/todo02.png)
+<p align="center">
+  <img src="images/todo02.png">
+</p>
 
 ## Scripts disponibles
 
