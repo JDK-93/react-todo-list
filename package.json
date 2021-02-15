@@ -1,5 +1,5 @@
 {
-  "name": "react-tw-template",
+  "name": "todo-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,8 +19,7 @@
   "scripts": {
     "start": "craco start",
     "build": "craco build",
-    "test": "craco test",
-    "eject": "react-scripts eject"
+    "test": "craco test"
   },
   "eslintConfig": {
     "extends": [
