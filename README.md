@@ -5,7 +5,7 @@ To do List developed with React using `create-react-app`, functional components 
 # Demo
 Si desea ver una demo de este proyecto, puedes visitar el siguiente [Link](https://6029c732f6499146d53a11a8--nifty-tesla-16c39e.netlify.app/).
 
-# Installation and execution
+# Installation
 
 Run the following commands in a console: 
 
