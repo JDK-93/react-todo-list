@@ -14,11 +14,6 @@ git clone git@github.com:JDK-93/react-todo-list.git
 cd react-todo-list
 npm install
 ```
-## Vista previa
-<p align="center">
-  <img src="images/todo02.png">
-</p>
-
 ## Scripts disponibles
 
 En el directorio del proyecto podrá ejecutar los siguientes scripts:
@@ -38,3 +33,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Crea la aplicación para producción en la carpeta `build`.\
 Consulte [implementación](https://facebook.github.io/create-react-app/docs/deployment) para obtener más información.
+
+## Vista previa
+<p align="center">
+  <img src="images/todo.png">
+</p>
