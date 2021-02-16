@@ -1,28 +1,30 @@
 # React To-Do List
 
-To do List desarrollado con React utilizando `create-react-app`, componentes funcionales y los Hooks useReducer y useEffect junto a un custom Hook básico para el manejo de formularios. Los Todos se guardan en el [localStorage](https://developer.mozilla.org/es/docs/Web/API/Storage/LocalStorage).
+To do List developed with React using `create-react-app`, functional components and the useReducer and useEffect Hooks together with a basic custom Hook for handling forms. The Todos are stored in the [localStorage](https://developer.mozilla.org/es/docs/Web/API/Storage/LocalStorage). 
 
 # Demo
 Si desea ver una demo de este proyecto, puedes visitar el siguiente [Link](https://6029c732f6499146d53a11a8--nifty-tesla-16c39e.netlify.app/).
 
-# Instalación y ejecución
+# Installation and execution
 
-Ejecute los siguientes comandos en una consola: 
+Run the following commands in a console: 
 
 ```
 git clone git@github.com:JDK-93/react-todo-list.git
 cd react-todo-list
 npm install
 ```
-## Scripts disponibles
+## Available Scripts
 
-En el directorio del proyecto podrá ejecutar los siguientes scripts:
+In the project directory, you can run:
 
 ### `npm start`
 
-Ejecuta la aplicación en modo de desarrollo.\
-Abra [http://localhost:3000](http://localhost:3000) para verlo en el navegador.\
-La página se volverá a cargar si realiza modificaciones.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
 ### `npm test`
 
@@ -31,8 +33,13 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
-Crea la aplicación para producción en la carpeta `build`.\
-Consulte [implementación](https://facebook.github.io/create-react-app/docs/deployment) para obtener más información.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Vista previa
 <p align="center">
