@@ -33,11 +33,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Crea la aplicación para producción en la carpeta `build`.\
 Consulte [implementación](https://facebook.github.io/create-react-app/docs/deployment) para obtener más información.
-<<<<<<< HEAD
 
 ## Vista previa
 <p align="center">
   <img src="images/todo.png">
 </p>
-=======
->>>>>>> 9952dbc05dad0cf31aafa25d3e1c72105cb4bbfe
