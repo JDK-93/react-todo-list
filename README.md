@@ -3,7 +3,7 @@
 To do List developed with React using `create-react-app`, functional components and the useReducer and useEffect Hooks together with a basic custom Hook for handling forms. The Todos are stored in the [localStorage](https://developer.mozilla.org/es/docs/Web/API/Storage/LocalStorage). 
 
 # Demo
-If you want to see a demo of this project, you can visit the following [link](https://6029c732f6499146d53a11a8--nifty-tesla-16c39e.netlify.app/).
+If you want to see a demo of this project, you can visit the following [link](https://jdk-todo-list.netlify.app/).
 
 # Installation
 
