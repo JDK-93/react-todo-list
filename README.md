@@ -1,4 +1,4 @@
-# React To-Do List
+# React: To-Do List
 
 To do List developed with React using `create-react-app`, functional components and the useReducer and useEffect Hooks together with a basic custom Hook for handling forms. The Todos are stored in the [localStorage](https://developer.mozilla.org/es/docs/Web/API/Storage/LocalStorage). 
 
